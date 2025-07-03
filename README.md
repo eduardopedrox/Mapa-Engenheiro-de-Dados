@@ -76,7 +76,6 @@ Me tornar um Engenheiro de Dados, começando a graduação em Ciência de Dados 
 * Desenvolver projetos robustos e postar no GitHub
 * Buscar estágio ou vaga de Analista de Dados Júnior ou Engenheiro de Dados Júnior
 
----
 
 ## 🚀 2027 a 2028 (Crescimento Profissional)
 
@@ -93,7 +92,6 @@ Me tornar um Engenheiro de Dados, começando a graduação em Ciência de Dados 
   * Brasil: 10k a 18k CLT
   * Remoto para fora: 3k a 7k USD (15k a 40k BRL)
 
----
 
 # 📆 Linha do Tempo Visual:
 
@@ -105,7 +103,6 @@ Me tornar um Engenheiro de Dados, começando a graduação em Ciência de Dados 
 | 2027 | Profissional Júnior                | Consolidação, Certificações Cloud e Dados, aumento salarial |
 | 2028 | Profissional Pleno / Internacional | Trabalhar remoto, mercado internacional, salário elevado    |
 
----
 
 # 🌐 Ferramentas Essenciais:
 
@@ -117,7 +114,6 @@ Me tornar um Engenheiro de Dados, começando a graduação em Ciência de Dados 
 * Banco NoSQL: MongoDB, Cassandra
 * Versionamento: Git + GitHub
 
----
 
 # 📅 Checklist de Habilidades:
 
@@ -132,9 +128,29 @@ Me tornar um Engenheiro de Dados, começando a graduação em Ciência de Dados 
 * [ ] Inglês Técnico
 * [ ] Certificações Profissionais
 
----
+# 🏆 CHECKLIST MENSAL
+
+## 🔥 Agosto → Outubro (Base Forte)
+
+ * [ ] Aprender SQL → SELECT, WHERE, JOIN
+ * [ ] Praticar SQL → Subqueries, Views, Procedures
+ * [ ] Python → Variáveis, Listas, Funções
+ * [ ] Python → Pandas, APIs
+ * [ ] Git → Clonar, Commit, Push, Pull
+ * [ ] Criar GitHub → Subir primeiro repositório
+ * [ ] Estudar Banco de Dados (PostgreSQL, MySQL)
+
+## 🚀 Novembro → Dezembro (Projeto + Cloud)
+ * [ ] Escolher uma API → Spotify, IBGE, Google Trends
+ * [ ] Criar pipeline: API → Banco de Dados
+ * [ ] Fazer queries SQL no projeto
+ * [ ] Criar README bonitão no GitHub
+ * [ ] Estudar AWS (Cloud Practitioner gratuito)
+ * [ ] Entender conceitos: Data Warehouse, Data Lake, ETL
+
 
 # 💡 Considerações Finais:
 
 Se seguir esse mapa, é plenamente possível estar com um salário de 10k a 20k antes dos 24 anos, trabalhando de casa, com qualidade de vida, segurança financeira e fazendo o que gosta: dados, tecnologia e automação.
+
 
